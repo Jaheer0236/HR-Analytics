@@ -1,6 +1,9 @@
-📊 HR Analytics – Employee Presence, WFH & Sick Leave Analysis
+# HR Analytics – Employee Presence, WFH & Sick Leave Analysis
 
 End-to-end HR Analytics project using Excel and Power BI to analyze employee attrition, workforce trends, and key HR metrics through interactive dashboards and actionable insights.
+
+## DashBoard Preview:-
+https://app.powerbi.com/view?r=eyJrIjoiMDQzYzg0MzMtN2M1Ny00YjBmLWJjN2ItY2E0OTRlODI1MjY5IiwidCI6IjEyYzk2ZjBkLTQzZmUtNDM0Mi1iZGIxLTk3M2QyZTRjOWI0YiJ9
 
 📌 Project Overview
 
